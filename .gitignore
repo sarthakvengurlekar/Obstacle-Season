@@ -1,0 +1,7 @@
+# Unity-specific files and directories
+Library/
+Temp/
+obj/
+Build/
+*.csproj
+*.sln
